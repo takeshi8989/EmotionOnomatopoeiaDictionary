@@ -1,0 +1,54 @@
+
+.emotion-section{
+    margin: 0;
+    padding: 0;
+}
+
+.word-card{
+    background-color: white;
+    display: flex;
+    padding: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.word-img{
+    width: 100%;
+    height: 90%;
+}
+
+
+.parent .link{
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-beige{
+    background-color: beige;
+}
+
+.bg-purple{
+    background-color: purple;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-grey{
+    background-color: grey;
+}
